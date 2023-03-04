@@ -1,0 +1,26 @@
+﻿<Page x:Class="Точка_прокатаЦПКиО.SotrudniksPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Точка_прокатаЦПКиО"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="SotrudniksPage">
+
+    <Grid Background="White">
+        <DataGrid x:Name="DgridSotrudniks">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding ID}" Width="*" />
+                <DataGridHyperlinkColumn Header="Код_сотрудника" Binding="{Binding Код_сотрудника}" Width="*" />
+                <DataGridTextColumn Header="Должность" Binding="{Binding Должность}" Width="*" />
+                <DataGridTextColumn Header="ФИО" Binding="{Binding ФИО}" Width="*" />
+                <DataGridTextColumn Header="Логин" Binding="{Binding Логин}" Width="*" />
+                <DataGridTextColumn Header="Пароль" Binding="{Binding Пароль}" Width="*" />
+                <DataGridTextColumn Header="Последний_вход" Binding="{Binding Последний_вход}" Width="*" />
+                <DataGridTextColumn Header="Тип_входа" Binding="{Binding Тип_входа}" Width="*" />
+                <DataGridTextColumn Header="IDПользователь" Binding="{Binding IDПользователь}" Width="*" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

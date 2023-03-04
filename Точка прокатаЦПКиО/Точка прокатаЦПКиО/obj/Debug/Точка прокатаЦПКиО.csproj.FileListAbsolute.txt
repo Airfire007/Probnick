@@ -1,0 +1,38 @@
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\bin\Debug\Точка прокатаЦПКиО.exe.config
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\bin\Debug\Точка прокатаЦПКиО.exe
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\bin\Debug\Точка прокатаЦПКиО.pdb
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО.csproj.AssemblyReference.cache
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\HomePage.g.cs
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\LogInPage.g.cs
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\MainWindow.g.cs
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\App.g.cs
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО_MarkupCompile.cache
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО_MarkupCompile.lref
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\HomePage.baml
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\LogInPage.baml
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\MainWindow.baml
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО.g.resources
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка_прокатаЦПКиО.Properties.Resources.resources
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО.csproj.GenerateResource.cache
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО.csproj.CoreCompileInputs.cache
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО.exe
+D:\Khamidullina\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО.pdb
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\bin\Debug\Точка прокатаЦПКиО.exe.config
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\bin\Debug\Точка прокатаЦПКиО.exe
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\bin\Debug\Точка прокатаЦПКиО.pdb
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО.csproj.AssemblyReference.cache
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\HomePage.g.cs
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\LogInPage.g.cs
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\MainWindow.g.cs
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\App.g.cs
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО_MarkupCompile.cache
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО_MarkupCompile.lref
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\HomePage.baml
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\LogInPage.baml
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\MainWindow.baml
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО.g.resources
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка_прокатаЦПКиО.Properties.Resources.resources
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО.csproj.GenerateResource.cache
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО.csproj.CoreCompileInputs.cache
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО.exe
+D:\bin\student\Точка прокатаЦПКиО\Точка прокатаЦПКиО\obj\Debug\Точка прокатаЦПКиО.pdb
